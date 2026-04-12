@@ -43,16 +43,17 @@
 
 ## 📊 GitHub Stats
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EddyZam27-03&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EddyZam27-03&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EddyZam27-03&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=EddyZam27-03&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EddyZam27-03&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EddyZam27-03&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
