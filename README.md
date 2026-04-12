@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer | IT Engineer | Backend & Full Stack Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Profile%20views&color=0e75b6&style=flat" alt="views"/>
+  <img src="https://komarev.com/ghpvc/?username=EddyZam27-03&label=Profile%20views&color=0e75b6&style=flat" alt="views"/>
 </p>
 
 ---
