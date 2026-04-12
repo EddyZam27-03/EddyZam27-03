@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 🎓 IT Engineering Student in the **ULEAM**
+- 🎓 IT Engineering 
 - 💻 Passionate about **Software Development & Technology**
 - ⚡ Focused on **Backend Development, Systems & Databases**
 - 🧠 Strong problem-solving skills and adaptability
