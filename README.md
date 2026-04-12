@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eddy Zamora</h1>
-<h3 align="center">Software Developer | IT Engineer Student | Backend & Full Stack Enthusiast</h3>
+<h3 align="center">Software Developer | IT Engineer | Backend & Full Stack Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Profile%20views&color=0e75b6&style=flat" alt="views"/>
@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 🎓 IT Engineering Student at **ULEAM**
+- 🎓 IT Engineering Student in the **ULEAM**
 - 💻 Passionate about **Software Development & Technology**
 - ⚡ Focused on **Backend Development, Systems & Databases**
 - 🧠 Strong problem-solving skills and adaptability
