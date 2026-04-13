@@ -7,39 +7,39 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🎓 IT Engineering 
-- 💻 Passionate about **Software Development & Technology**
-- ⚡ Focused on **Backend Development, Systems & Databases**
-- 🧠 Strong problem-solving skills and adaptability
-- 🌱 Currently improving skills in **advanced programming & real-world systems**
+- IT Engineering 
+- Passionate about **Software Development & Technology**
+- Focused on **Backend Development, Systems & Databases**
+- Strong problem-solving skills and adaptability
+- Currently improving skills in **advanced programming & real-world systems**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 💻 Programming Languages
+### Programming Languages
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,kotlin,php" />
 
-### 🌐 Web Development
+### Web Development
 <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-### 🗄️ Databases
+### Databases
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 
 
-### ⚙️ Tools & Technologies
+### Tools & Technologies
 
 <img src="https://skillicons.dev/icons?i=git,github,linux,windows,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=EddyZam27-03&show_icons=true&theme=tokyonight" />
@@ -47,9 +47,9 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EddyZam27-03&layout=compact&theme=tokyonight" />
 
 
-## 💼 Projects
+## Projects
 
-🚧 Here are some of my highlighted projects:
+Here are some of my highlighted projects:
 
 - 🔹 **IoT System with MQTT**  
   Real-time data communication using MQTT, Node.js, and dashboards.
@@ -62,10 +62,10 @@
 
 ---
 
-## 📫 Contact Me
+## Contact Me
 
-- 📧 Email: eddy.z27102003@gmail.com  
-- 📱 Phone: +593 98 372 8408  
+- Email: eddy.z27102003@gmail.com  
+- Phone: +593 98 372 8408  
 
 ---
 
