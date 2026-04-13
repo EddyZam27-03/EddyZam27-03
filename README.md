@@ -68,7 +68,3 @@ Here are some of my highlighted projects:
 - Phone: +593 98 372 8408  
 
 ---
-
-## ⚡ Quote
-
-> "Code, learn, improve, repeat 🚀"
