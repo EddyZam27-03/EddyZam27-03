@@ -22,20 +22,18 @@
 ### 💻 Programming Languages
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,kotlin,php" />
-</p>
 
 ### 🌐 Web Development
-<p>
 <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
 ### 🗄️ Databases
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
+
 
 ### ⚙️ Tools & Technologies
-<p>
+
 <img src="https://skillicons.dev/icons?i=git,github,linux,windows,vscode" />
 </p>
 
