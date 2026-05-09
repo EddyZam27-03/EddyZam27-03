@@ -9,11 +9,24 @@
 
 ## About Me
 
-- IT Engineering 
+- IT Engineering Student
 - Passionate about **Software Development & Technology**
 - Focused on **Backend Development, Systems & Databases**
 - Strong problem-solving skills and adaptability
 - Currently improving skills in **advanced programming & real-world systems**
+
+---
+
+## Projects
+
+### 🔹 IoT System with MQTT
+Real-time data communication system using MQTT, Node.js, Python, and interactive dashboards with live monitoring.
+
+### 🔹 Web System with PHP & MySQL
+Full CRUD web application with authentication, database integration, and user management functionalities.
+
+### 🔹 Data Processing Automation (Python)
+Automation scripts for extracting, processing, and exporting data from PDF documents into Excel files.
 
 ---
 
@@ -22,18 +35,20 @@
 ### Programming Languages
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,kotlin,php" />
+</p>
 
 ### Web Development
+<p>
 <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
 ### Databases
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-
+</p>
 
 ### Tools & Technologies
-
+<p>
 <img src="https://skillicons.dev/icons?i=git,github,linux,windows,vscode" />
 </p>
 
@@ -41,24 +56,11 @@
 
 ## GitHub Stats
 
-
+<p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=EddyZam27-03&show_icons=true&theme=tokyonight" />
   <img src="https://streak-stats.demolab.com?user=EddyZam27-03&theme=tokyonight" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EddyZam27-03&layout=compact&theme=tokyonight" />
-
-
-## Projects
-
-Here are some of my highlighted projects:
-
-- 🔹 **IoT System with MQTT**  
-  Real-time data communication using MQTT, Node.js, and dashboards.
-
-- 🔹 **Web System with PHP & MySQL**  
-  Full CRUD system with authentication and database integration.
-
-- 🔹 **Data Processing Automation (Python)**  
-  Script for extracting and processing data from PDFs into Excel.
+</p>
 
 ---
 
@@ -66,5 +68,3 @@ Here are some of my highlighted projects:
 
 - Email: eddy.z27102003@gmail.com  
 - Phone: +593 98 372 8408  
-
----
