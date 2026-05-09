@@ -51,19 +51,6 @@ Automation scripts for extracting, processing, and exporting data from PDF docum
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,linux,windows,vscode" />
 </p>
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=EddyZam27-03&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=EddyZam27-03&theme=tokyonight" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EddyZam27-03&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## Contact Me
 
 - Email: eddy.z27102003@gmail.com  
